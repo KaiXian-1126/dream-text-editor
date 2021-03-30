@@ -1,0 +1,17 @@
+a.btn{
+    color: white;
+    background-color: grey;
+    padding: 8px;
+    border-radius: 5px;
+}
+a:hover{
+    transition: 0.5s;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    background-color: #555555;
+    text-decoration: none;
+}
+input[type=text]{
+    outline: none;
+}
